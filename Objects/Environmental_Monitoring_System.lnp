@@ -1,0 +1,11 @@
+".\Objects\main.obj",
+".\Objects\public.obj",
+".\Objects\uart.obj",
+".\Objects\xpt2046.obj",
+".\Objects\lcd1602.obj",
+".\Objects\dh11.obj",
+".\Objects\mq2.obj",
+".\Objects\beep.obj",
+".\Objects\esp8266.obj" 
+TO ".\Objects\Environmental_Monitoring_System" 
+PRINT(".\Listings\Environmental_Monitoring_System.m51")
